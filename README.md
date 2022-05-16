@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mandyh101
 - 👀 I’m interested in cybersecurity, web3 and learning about different technologies
-- 🌱 I’m currently learning Python3 
-- 💞️ I’m looking to collaborate on Python3 projects for beginners
+- 🌱 I’m currently learning Javascript. 
+- 💞️ I’m looking to collaborate on Javsacript projects.
 - 📫 Reach me on discord mandyh30#7488
 
 <!---
