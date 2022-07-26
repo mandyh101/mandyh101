@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandyh101
-- 👀 I’m interested in cybersecurity, web3 and learning about different technologies
-- 🌱 I’m currently learning Javascript. 
+- 👀 I’m interested in cybersecurity, sustainable web development, web3 and growing my skills as a web developer.
+- 🌱 I’m currently learning Javascript and Typescript.
 - 💞️ I’m looking to collaborate on Javsacript projects.
 - 📫 Reach me on discord mandyh30#7488
 
